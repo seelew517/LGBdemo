@@ -1,4 +1,4 @@
 # LGBdemo
 LightGBM
 
-demo for LEO uplink
+demo for LEO uplink // ts
