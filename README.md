@@ -1,4 +1,4 @@
 # LGBdemo
 LightGBM
 
-demo for LEO uplink // still under debugging
+demo for LEO uplink pre // still under debugging
